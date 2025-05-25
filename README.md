@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushil8
 - 👀 I’m interested in Coding mobile apps and python is my favourite language
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Java
 
 
 <!---
